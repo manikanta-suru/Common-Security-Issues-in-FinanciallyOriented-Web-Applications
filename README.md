@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository serves as a comprehensive guideline for penetration testers focusing on the security of financially-oriented web applications. The content addresses common vulnerability classes and provides insights into testing strategies.
+This repository serves as a comprehensive guideline for penetration testers focusing on the security of financially oriented web applications. The content addresses common vulnerability classes and provides insights into testing strategies.
 
 ## Contents
 
